@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/sunny_start" />
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/sunny_start"
+                android:centerColor="@color/sunny_center"
+                android:endColor="@color/sunny_end"
+                android:angle="90" />
+        </shape>
+    </item>
+</layer-list>

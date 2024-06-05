@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background colors -->
+    <color name="sunnyBackground">#FFEB3B</color>
+    <color name="rainyBackground">#2196F3</color>
+    <color name="cloudyBackground">#9E9E9E</color>
+    <color name="defaultBackground">#FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#757575</color>
+    <color name="cardTextColor">#FFFFFF</color>
+
+    <!-- Card background color -->
+    <color name="cardBackground">#F5F5F5</color>
+
+    <!-- Weather icon colors -->
+    <color name="sunnyIcon">#FFA000</color>
+    <color name="rainyIcon">#1976D2</color>
+    <color name="cloudyIcon">#616161</color>
+
+    <!-- Gradient colors for backgrounds -->
+    <color name="sunny_start">#FFEB3B</color>
+    <color name="sunny_center">#FFC107</color>
+    <color name="sunny_end">#FFA000</color>
+
+    <color name="rainy_start">#2196F3</color>
+    <color name="rainy_center">#1976D2</color>
+    <color name="rainy_end">#0D47A1</color>
+
+    <color name="cloudy_start">#9E9E9E</color>
+    <color name="cloudy_center">#757575</color>
+    <color name="cloudy_end">#616161</color>
+
+    <color name="default_start">#BDBDBD</color>
+    <color name="default_center">#9E9E9E</color>
+    <color name="default_end">#616161</color>
+
+
+
+</resources>
+

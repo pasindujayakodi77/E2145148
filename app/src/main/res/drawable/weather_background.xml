@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Default background -->
+    <item android:drawable="@android:color/white" />
+
+    <!-- Sunny background gradient -->
+    <item>
+        <shape android:visible="true">
+            <gradient
+                android:startColor="#FFEB3B"
+                android:centerColor="#FFC107"
+                android:endColor="#FFA000"
+                android:angle="90" />
+        </shape>
+    </item>
+
+    <!-- Rainy background gradient -->
+    <item android:visible="false">
+        <shape>
+            <gradient
+                android:startColor="#2196F3"
+                android:centerColor="#1976D2"
+                android:endColor="#0D47A1"
+                android:angle="90" />
+        </shape>
+    </item>
+
+    <!-- Cloudy background gradient -->
+    <item android:visible="false">
+        <shape>
+            <gradient
+                android:startColor="#9E9E9E"
+                android:centerColor="#757575"
+                android:endColor="#616161"
+                android:angle="90" />
+        </shape>
+    </item>
+
+</layer-list>

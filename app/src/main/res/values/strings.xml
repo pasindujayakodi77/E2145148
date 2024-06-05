@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E2145148_Weather</string>
+    <string name="latitude_longitude_label">Latitude: %1$s, Longitude: %2$s</string>
+    <string name="address_label">Address:</string>
+    <string name="time_label">System Time: %1$s</string>
+    <string name="weather_info_label">Weather Info</string>
+    <string name="temperature_label">Temperature: %1$s°C</string>
+    <string name="humidity_label">Humidity: %1$s%%</string>
+    <string name="weather_description_label">Description: %1$s</string>
+    <string name="address_not_found">Address not found</string>
+    <string name="geocoder_error">Geocoder error</string>
+    <string name="weather_data_parsing_error">Weather data parsing error</string>
+    <string name="weather_data_fetching_error">Weather data fetching error</string>
+</resources>
