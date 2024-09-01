@@ -1,7 +1,3 @@
-misstakenly 2nd task not done but finish same file upload ------i have no more review to build it sad!!!!!!!!!
-
-
-
 Weather App E2145148
 README
 Overview
